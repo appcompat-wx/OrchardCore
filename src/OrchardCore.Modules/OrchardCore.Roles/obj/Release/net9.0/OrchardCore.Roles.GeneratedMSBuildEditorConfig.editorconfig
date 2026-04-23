@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OrchardCore.Roles
+build_property.RootNamespace = OrchardCore.Roles
+build_property.ProjectDir = D:\OrchardCore\src\OrchardCore.Modules\OrchardCore.Roles\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\OrchardCore\src\OrchardCore.Modules\OrchardCore.Roles
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/AllRolesDeploymentStep.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQWxsUm9sZXNEZXBsb3ltZW50U3RlcC5FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/AllRolesDeploymentStep.Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQWxsUm9sZXNEZXBsb3ltZW50U3RlcC5TdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/AllRolesDeploymentStep.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQWxsUm9sZXNEZXBsb3ltZW50U3RlcC5UaHVtYm5haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/GetUsersByRoleTask.Fields.Design.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcR2V0VXNlcnNCeVJvbGVUYXNrLkZpZWxkcy5EZXNpZ24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/GetUsersByRoleTask.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcR2V0VXNlcnNCeVJvbGVUYXNrLkZpZWxkcy5FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/GetUsersByRoleTask.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcR2V0VXNlcnNCeVJvbGVUYXNrLkZpZWxkcy5UaHVtYm5haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/UnassignUserRoleTask.Fields.Design.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcVW5hc3NpZ25Vc2VyUm9sZVRhc2suRmllbGRzLkRlc2lnbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/UnassignUserRoleTask.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcVW5hc3NpZ25Vc2VyUm9sZVRhc2suRmllbGRzLkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Items/UnassignUserRoleTask.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcVW5hc3NpZ25Vc2VyUm9sZVRhc2suRmllbGRzLlRodW1ibmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/NavigationItemText-roles.Id.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbkl0ZW1UZXh0LXJvbGVzLklkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/Shared/Components/SelectRoles/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VsZWN0Um9sZXNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.Roles/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

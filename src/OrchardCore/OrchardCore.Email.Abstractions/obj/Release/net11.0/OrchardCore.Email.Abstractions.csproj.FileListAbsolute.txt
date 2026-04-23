@@ -1,0 +1,13 @@
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Release\net11.0\OrchardCore.Email.Abstractions.deps.json
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Release\net11.0\OrchardCore.Email.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Release\net11.0\OrchardCore.Email.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Release\net11.0\OrchardCore.Email.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\OrchardCore.Email.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\OrchardCore.Email.Abstractions.AssemblyInfoInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\OrchardCore.Email.Abstractions.AssemblyInfo.cs
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\OrchardCore.Email.Abstractions.csproj.CoreCompileInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\OrchardCore.Email.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\refint\OrchardCore.Email.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\OrchardCore.Email.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\OrchardCore.Email.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net11.0\ref\OrchardCore.Email.Abstractions.dll

@@ -1,0 +1,13 @@
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Release\net11.0\OrchardCore.FileStorage.Abstractions.deps.json
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Release\net11.0\OrchardCore.FileStorage.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Release\net11.0\OrchardCore.FileStorage.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Release\net11.0\OrchardCore.FileStorage.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\OrchardCore.FileStorage.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\OrchardCore.FileStorage.Abstractions.AssemblyInfoInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\OrchardCore.FileStorage.Abstractions.AssemblyInfo.cs
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\OrchardCore.FileStorage.Abstractions.csproj.CoreCompileInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\OrchardCore.FileStorage.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\refint\OrchardCore.FileStorage.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\OrchardCore.FileStorage.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\OrchardCore.FileStorage.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net11.0\ref\OrchardCore.FileStorage.Abstractions.dll

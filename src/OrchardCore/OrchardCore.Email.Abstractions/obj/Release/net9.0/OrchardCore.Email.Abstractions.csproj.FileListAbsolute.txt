@@ -1,0 +1,14 @@
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Release\net9.0\OrchardCore.Email.Abstractions.deps.json
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Release\net9.0\OrchardCore.Email.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Release\net9.0\OrchardCore.Email.Abstractions.pdb
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Release\net9.0\OrchardCore.Email.Abstractions.xml
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\OrchardCore.Email.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\OrchardCore.Email.Abstractions.AssemblyInfoInputs.cache
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\OrchardCore.Email.Abstractions.AssemblyInfo.cs
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\OrchardCore.Email.Abstractions.csproj.CoreCompileInputs.cache
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\OrchardCore.Email.Abstractions.sourcelink.json
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\OrchardCore.Email.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\refint\OrchardCore.Email.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\OrchardCore.Email.Abstractions.xml
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\OrchardCore.Email.Abstractions.pdb
+D:\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Release\net9.0\ref\OrchardCore.Email.Abstractions.dll

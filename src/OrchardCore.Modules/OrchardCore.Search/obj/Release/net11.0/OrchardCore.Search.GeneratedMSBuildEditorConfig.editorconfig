@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net11.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v11.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OrchardCore.Search
+build_property.RootNamespace = OrchardCore.Search
+build_property.ProjectDir = C:\AppBuild\OrchardCMS\src\OrchardCore.Modules\OrchardCore.Search\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 11.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\AppBuild\OrchardCMS\src\OrchardCore.Modules\OrchardCore.Search
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/Items/SearchSettingsDeploymentStep.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcU2VhcmNoU2V0dGluZ3NEZXBsb3ltZW50U3RlcC5GaWVsZHMuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/Items/SearchSettingsDeploymentStep.Fields.Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcU2VhcmNoU2V0dGluZ3NEZXBsb3ltZW50U3RlcC5GaWVsZHMuU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/Items/SearchSettingsDeploymentStep.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcU2VhcmNoU2V0dGluZ3NEZXBsb3ltZW50U3RlcC5GaWVsZHMuVGh1bWJuYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/NavigationItemText-search.Id.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbkl0ZW1UZXh0LXNlYXJjaC5JZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/Search-Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoLUZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/Search-List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoLUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/Search-Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoLVJlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/SearchFormPart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoRm9ybVBhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/SearchFormPart.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoRm9ybVBhcnQuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/SearchSettings.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoU2V0dGluZ3MuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/Search/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

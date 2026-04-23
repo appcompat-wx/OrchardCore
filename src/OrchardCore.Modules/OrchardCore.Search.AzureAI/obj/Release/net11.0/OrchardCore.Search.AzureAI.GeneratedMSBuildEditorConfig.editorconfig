@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net11.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v11.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OrchardCore.Search.AzureAI
+build_property.RootNamespace = OrchardCore.Search.AzureAI
+build_property.ProjectDir = C:\AppBuild\OrchardCMS\src\OrchardCore.Modules\OrchardCore.Search.AzureAI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 11.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\AppBuild\OrchardCMS\src\OrchardCore.Modules\OrchardCore.Search.AzureAI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Admin/NotConfigured.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTm90Q29uZmlndXJlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchContentIndexSettings.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaENvbnRlbnRJbmRleFNldHRpbmdzLkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchDefaultSettings.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaERlZmF1bHRTZXR0aW5ncy5FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchIndexSettings.Buttons.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaEluZGV4U2V0dGluZ3MuQnV0dG9ucy5TdW1tYXJ5QWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchIndexSettings.DefaultTags.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaEluZGV4U2V0dGluZ3MuRGVmYXVsdFRhZ3MuU3VtbWFyeUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchIndexSettings.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaEluZGV4U2V0dGluZ3MuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchIndexSettings.Fields.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaEluZGV4U2V0dGluZ3MuRmllbGRzLlN1bW1hcnlBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchIndexSettings.Link.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaEluZGV4U2V0dGluZ3MuTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchIndexSettings.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaEluZGV4U2V0dGluZ3MuU3VtbWFyeUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchIndexSettingsFields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaEluZGV4U2V0dGluZ3NGaWVsZHMuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/AzureAISearchSettings.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVBSVNlYXJjaFNldHRpbmdzLkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/ContentIndexMetadata.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEluZGV4TWV0YWRhdGEuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexDeploymentStep.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4RGVwbG95bWVudFN0ZXAuRmllbGRzLkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexDeploymentStep.Fields.Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4RGVwbG95bWVudFN0ZXAuRmllbGRzLlN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexDeploymentStep.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4RGVwbG95bWVudFN0ZXAuRmllbGRzLlRodW1ibmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexRebuildDeploymentStep.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4UmVidWlsZERlcGxveW1lbnRTdGVwLkZpZWxkcy5FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexRebuildDeploymentStep.Fields.Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4UmVidWlsZERlcGxveW1lbnRTdGVwLkZpZWxkcy5TdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexRebuildDeploymentStep.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4UmVidWlsZERlcGxveW1lbnRTdGVwLkZpZWxkcy5UaHVtYm5haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexResetDeploymentStep.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4UmVzZXREZXBsb3ltZW50U3RlcC5GaWVsZHMuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexResetDeploymentStep.Fields.Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4UmVzZXREZXBsb3ltZW50U3RlcC5GaWVsZHMuU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchIndexResetDeploymentStep.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaEluZGV4UmVzZXREZXBsb3ltZW50U3RlcC5GaWVsZHMuVGh1bWJuYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchSettingsDeploymentStep.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaFNldHRpbmdzRGVwbG95bWVudFN0ZXAuRmllbGRzLkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchSettingsDeploymentStep.Fields.Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaFNldHRpbmdzRGVwbG95bWVudFN0ZXAuRmllbGRzLlN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/Items/AzureAISearchSettingsDeploymentStep.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQXp1cmVBSVNlYXJjaFNldHRpbmdzRGVwbG95bWVudFN0ZXAuRmllbGRzLlRodW1ibmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/NavigationItemText-azureaisearch.Id.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbkl0ZW1UZXh0LWF6dXJlYWlzZWFyY2guSWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/NavigationItemText-search.Id.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbkl0ZW1UZXh0LXNlYXJjaC5JZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Search.AzureAI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

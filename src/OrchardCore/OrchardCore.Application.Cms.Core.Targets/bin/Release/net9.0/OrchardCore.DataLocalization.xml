@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrchardCore.DataLocalization</name>
+    </assembly>
+    <members>
+        <member name="T:OrchardCore.DataLocalization.Permissions">
+            <summary>
+            Represents the localization module permissions.
+            </summary>
+        </member>
+        <member name="F:OrchardCore.DataLocalization.Permissions.ManageLocalization">
+            <summary>
+            Gets a permission for managing the cultures.
+            </summary>
+        </member>
+        <member name="M:OrchardCore.DataLocalization.Services.DataTranslationProvider.LoadTranslations(System.String,OrchardCore.Localization.CultureDictionary)">
+            <inheritdoc/>
+        </member>
+        <member name="T:OrchardCore.DataLocalization.Startup">
+            <summary>
+            Represents a localization module entry point.
+            </summary>
+        </member>
+        <member name="M:OrchardCore.DataLocalization.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <inheritdocs />
+        </member>
+    </members>
+</doc>

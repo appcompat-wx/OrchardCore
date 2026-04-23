@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAxK5GCgAuQ=",
+  "success": true,
+  "projectFilePath": "C:\\AppBuild\\OrchardCMS\\src\\OrchardCore\\OrchardCore.Feeds.Core\\OrchardCore.Feeds.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.codeanalysis.csharp.codestyle\\4.13.0\\microsoft.codeanalysis.csharp.codestyle.4.13.0.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.sourcelink.github\\8.0.0\\microsoft.sourcelink.github.8.0.0.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

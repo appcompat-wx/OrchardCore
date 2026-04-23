@@ -1,0 +1,13 @@
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\bin\Release\net11.0\OrchardCore.Sms.Abstractions.deps.json
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\bin\Release\net11.0\OrchardCore.Sms.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\bin\Release\net11.0\OrchardCore.Sms.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\bin\Release\net11.0\OrchardCore.Sms.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\OrchardCore.Sms.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\OrchardCore.Sms.Abstractions.AssemblyInfoInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\OrchardCore.Sms.Abstractions.AssemblyInfo.cs
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\OrchardCore.Sms.Abstractions.csproj.CoreCompileInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\OrchardCore.Sms.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\refint\OrchardCore.Sms.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\OrchardCore.Sms.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\OrchardCore.Sms.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Sms.Abstractions\obj\Release\net11.0\ref\OrchardCore.Sms.Abstractions.dll

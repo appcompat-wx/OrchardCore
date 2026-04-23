@@ -1,0 +1,14 @@
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Release\net9.0\OrchardCore.FileStorage.Abstractions.deps.json
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Release\net9.0\OrchardCore.FileStorage.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Release\net9.0\OrchardCore.FileStorage.Abstractions.pdb
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Release\net9.0\OrchardCore.FileStorage.Abstractions.xml
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\OrchardCore.FileStorage.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\OrchardCore.FileStorage.Abstractions.AssemblyInfoInputs.cache
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\OrchardCore.FileStorage.Abstractions.AssemblyInfo.cs
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\OrchardCore.FileStorage.Abstractions.csproj.CoreCompileInputs.cache
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\OrchardCore.FileStorage.Abstractions.sourcelink.json
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\OrchardCore.FileStorage.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\refint\OrchardCore.FileStorage.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\OrchardCore.FileStorage.Abstractions.xml
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\OrchardCore.FileStorage.Abstractions.pdb
+D:\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Release\net9.0\ref\OrchardCore.FileStorage.Abstractions.dll

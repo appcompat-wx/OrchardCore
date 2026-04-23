@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrchardCore.ReCaptcha.Core</name>
+    </assembly>
+    <members>
+        <member name="M:OrchardCore.ReCaptcha.Services.ReCaptchaService.VerifyCaptchaResponseAsync(System.String)">
+            <summary>
+            Verifies the ReCaptcha response with the ReCaptcha webservice.
+            </summary>
+            <param name="reCaptchaResponse"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OrchardCore.ReCaptcha.Services.ReCaptchaService.ValidateCaptchaAsync(System.Action{System.String,System.String})">
+            <summary>
+            Validates the captcha that is in the Form of the current request.
+            </summary>
+            <param name="reportError">Lambda for reporting errors.</param>
+        </member>
+        <member name="M:OrchardCore.ReCaptcha.Services.ReCaptchaService.VerifyAsync(System.String)">
+            <summary>
+            Verifies the supplied token with ReCaptcha Api.
+            </summary>
+            <param name="responseToken">Token received from the ReCaptcha UI.</param>
+            <returns>A boolean indicating if the token is valid.</returns>
+        </member>
+        <member name="P:OrchardCore.ReCaptcha.TagHelpers.ReCaptchaTagHelper.Language">
+            <summary>
+            The two letter ISO code of the language the captcha should be displayed in.
+            When left blank it will fall back to the default OrchardCore language.
+            </summary>
+        </member>
+        <member name="P:OrchardCore.ReCaptcha.TagHelpers.ReCaptchaTagHelper.OnLoad">
+            <summary>
+            The name of the JavaScript callback method to be called when the reCAPTCHA loads.
+            </summary>
+        </member>
+    </members>
+</doc>

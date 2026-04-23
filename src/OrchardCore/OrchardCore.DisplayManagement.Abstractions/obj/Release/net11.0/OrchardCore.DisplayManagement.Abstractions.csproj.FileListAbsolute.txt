@@ -1,0 +1,13 @@
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\bin\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.deps.json
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\bin\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\bin\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\bin\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.AssemblyInfoInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.AssemblyInfo.cs
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.csproj.CoreCompileInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\refint\OrchardCore.DisplayManagement.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\OrchardCore.DisplayManagement.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Release\net11.0\ref\OrchardCore.DisplayManagement.Abstractions.dll

@@ -1,0 +1,480 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OrchardCore.Search.Lucene.Core/3.0.0-preview": {
+        "dependencies": {
+          "Lucene.Net.QueryParser": "4.8.0-beta00017",
+          "Lucene.Net.Spatial": "4.8.0-beta00017",
+          "Microsoft.CodeAnalysis.CSharp.CodeStyle": "4.13.0",
+          "Microsoft.SourceLink.GitHub": "8.0.0",
+          "OrchardCore.Abstractions": "3.0.0-preview",
+          "OrchardCore.Queries.Abstractions": "3.0.0-preview",
+          "OrchardCore.Search.Lucene.Abstractions": "3.0.0-preview",
+          "StyleCop.Analyzers": "1.1.118"
+        },
+        "runtime": {
+          "OrchardCore.Search.Lucene.Core.dll": {}
+        }
+      },
+      "GeoAPI/1.7.5": {
+        "dependencies": {
+          "GeoAPI.CoordinateSystems": "1.7.5",
+          "GeoAPI.Core": "1.7.5"
+        }
+      },
+      "GeoAPI.CoordinateSystems/1.7.5": {
+        "dependencies": {
+          "GeoAPI.Core": "1.7.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GeoAPI.CoordinateSystems.dll": {
+            "assemblyVersion": "1.7.5.0",
+            "fileVersion": "1.7.5.0"
+          }
+        }
+      },
+      "GeoAPI.Core/1.7.5": {
+        "runtime": {
+          "lib/netstandard2.0/GeoAPI.dll": {
+            "assemblyVersion": "1.7.5.0",
+            "fileVersion": "1.7.5.0"
+          }
+        }
+      },
+      "J2N/2.1.0": {
+        "runtime": {
+          "lib/net8.0/J2N.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "Json.More.Net/2.1.1": {
+        "runtime": {
+          "lib/net9.0/Json.More.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "JsonPath.Net/2.1.1": {
+        "dependencies": {
+          "Json.More.Net": "2.1.1"
+        },
+        "runtime": {
+          "lib/net9.0/JsonPath.Net.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "Lucene.Net/4.8.0-beta00017": {
+        "dependencies": {
+          "J2N": "2.1.0"
+        },
+        "runtime": {
+          "lib/net8.0/Lucene.Net.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.0.0"
+          }
+        }
+      },
+      "Lucene.Net.Analysis.Common/4.8.0-beta00017": {
+        "dependencies": {
+          "Lucene.Net": "4.8.0-beta00017"
+        },
+        "runtime": {
+          "lib/net8.0/Lucene.Net.Analysis.Common.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.0.0"
+          }
+        }
+      },
+      "Lucene.Net.Queries/4.8.0-beta00017": {
+        "dependencies": {
+          "Lucene.Net": "4.8.0-beta00017"
+        },
+        "runtime": {
+          "lib/net8.0/Lucene.Net.Queries.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.0.0"
+          }
+        }
+      },
+      "Lucene.Net.QueryParser/4.8.0-beta00017": {
+        "dependencies": {
+          "Lucene.Net.Analysis.Common": "4.8.0-beta00017",
+          "Lucene.Net.Queries": "4.8.0-beta00017",
+          "Lucene.Net.Sandbox": "4.8.0-beta00017"
+        },
+        "runtime": {
+          "lib/net8.0/Lucene.Net.QueryParser.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.0.0"
+          }
+        }
+      },
+      "Lucene.Net.Sandbox/4.8.0-beta00017": {
+        "dependencies": {
+          "Lucene.Net": "4.8.0-beta00017"
+        },
+        "runtime": {
+          "lib/net8.0/Lucene.Net.Sandbox.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.0.0"
+          }
+        }
+      },
+      "Lucene.Net.Spatial/4.8.0-beta00017": {
+        "dependencies": {
+          "Lucene.Net": "4.8.0-beta00017",
+          "Lucene.Net.Queries": "4.8.0-beta00017",
+          "Spatial4n": "0.4.1.1"
+        },
+        "runtime": {
+          "lib/net8.0/Lucene.Net.Spatial.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.8.0.0"
+          }
+        }
+      },
+      "Microsoft.Build.Tasks.Git/8.0.0": {},
+      "Microsoft.CodeAnalysis.CSharp.CodeStyle/4.13.0": {},
+      "Microsoft.IO.RecyclableMemoryStream/3.0.1": {
+        "runtime": {
+          "lib/net6.0/Microsoft.IO.RecyclableMemoryStream.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "Microsoft.SourceLink.Common/8.0.0": {},
+      "Microsoft.SourceLink.GitHub/8.0.0": {
+        "dependencies": {
+          "Microsoft.Build.Tasks.Git": "8.0.0",
+          "Microsoft.SourceLink.Common": "8.0.0"
+        }
+      },
+      "NetTopologySuite/1.15.0": {
+        "dependencies": {
+          "NetTopologySuite.CoordinateSystems": "1.15.0",
+          "NetTopologySuite.Core": "1.15.0"
+        }
+      },
+      "NetTopologySuite.CoordinateSystems/1.15.0": {
+        "dependencies": {
+          "GeoAPI.CoordinateSystems": "1.7.5"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/NetTopologySuite.CoordinateSystems.dll": {
+            "assemblyVersion": "1.15.0.0",
+            "fileVersion": "1.15.0.0"
+          }
+        }
+      },
+      "NetTopologySuite.Core/1.15.0": {
+        "dependencies": {
+          "GeoAPI.Core": "1.7.5"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/NetTopologySuite.dll": {
+            "assemblyVersion": "1.15.0.0",
+            "fileVersion": "1.15.0.0"
+          }
+        }
+      },
+      "Spatial4n/0.4.1.1": {
+        "dependencies": {
+          "GeoAPI": "1.7.5",
+          "NetTopologySuite": "1.15.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Spatial4n.dll": {
+            "assemblyVersion": "0.4.1.0",
+            "fileVersion": "0.4.1.1"
+          }
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {},
+      "ZString/2.6.0": {
+        "runtime": {
+          "lib/net7.0/ZString.dll": {
+            "assemblyVersion": "2.6.0.0",
+            "fileVersion": "2.6.0.0"
+          }
+        }
+      },
+      "OrchardCore.Abstractions/3.0.0-preview": {
+        "dependencies": {
+          "JsonPath.Net": "2.1.1",
+          "Microsoft.IO.RecyclableMemoryStream": "3.0.1",
+          "ZString": "2.6.0"
+        },
+        "runtime": {
+          "OrchardCore.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "OrchardCore.Data.Abstractions/3.0.0-preview": {
+        "dependencies": {
+          "OrchardCore.Abstractions": "3.0.0-preview"
+        },
+        "runtime": {
+          "OrchardCore.Data.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "OrchardCore.Infrastructure.Abstractions/3.0.0-preview": {
+        "dependencies": {
+          "OrchardCore.Abstractions": "3.0.0-preview",
+          "OrchardCore.Data.Abstractions": "3.0.0-preview",
+          "OrchardCore.ResourceManagement.Abstractions": "3.0.0-preview"
+        },
+        "runtime": {
+          "OrchardCore.Infrastructure.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "OrchardCore.Queries.Abstractions/3.0.0-preview": {
+        "dependencies": {
+          "OrchardCore.Infrastructure.Abstractions": "3.0.0-preview"
+        },
+        "runtime": {
+          "OrchardCore.Queries.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "OrchardCore.ResourceManagement.Abstractions/3.0.0-preview": {
+        "runtime": {
+          "OrchardCore.ResourceManagement.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "OrchardCore.Search.Lucene.Abstractions/3.0.0-preview": {
+        "dependencies": {
+          "Lucene.Net": "4.8.0-beta00017",
+          "OrchardCore.Queries.Abstractions": "3.0.0-preview"
+        },
+        "runtime": {
+          "OrchardCore.Search.Lucene.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrchardCore.Search.Lucene.Core/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeoAPI/1.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LAHPEztEGuR3LGtnNYOqg2JvUaw449gcACYqmy1pr129R2cWaV+Q9Lne8YgEwCnksHCVoXyQmuKY+CvsgPYmng==",
+      "path": "geoapi/1.7.5",
+      "hashPath": "geoapi.1.7.5.nupkg.sha512"
+    },
+    "GeoAPI.CoordinateSystems/1.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JBcvkeQFjCW9NTfkII5WiJNmnv0ZtYA/VTVljbIqDFWBJ8kHwu2UHd2MVStD/VVHVnLoyNcDIapsuTENdlyF3g==",
+      "path": "geoapi.coordinatesystems/1.7.5",
+      "hashPath": "geoapi.coordinatesystems.1.7.5.nupkg.sha512"
+    },
+    "GeoAPI.Core/1.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dy/YkgZ1szgx+xbVWqMi+4++Fm6v3szbVdei1LKPRZ3meSvgNSMZxqhar5IAeaTj5LcUHLtLGdfyUtkjnYbg3A==",
+      "path": "geoapi.core/1.7.5",
+      "hashPath": "geoapi.core.1.7.5.nupkg.sha512"
+    },
+    "J2N/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vooz1wbnnqWuS+u93tADXK5Owxo8vLJhSrZ9Ac+KpgDF3GJq9TybXXTF1TFcWILgEtRThc8AOBENEzB0TQH1JA==",
+      "path": "j2n/2.1.0",
+      "hashPath": "j2n.2.1.0.nupkg.sha512"
+    },
+    "Json.More.Net/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZXAKl2VsdnIZeUo1PFII3Oi1m1L4YQjEyDjygHfHln5vgsjgIo749X6xWkv7qFYp8RROES+vOEfDcvvoVgs8kA==",
+      "path": "json.more.net/2.1.1",
+      "hashPath": "json.more.net.2.1.1.nupkg.sha512"
+    },
+    "JsonPath.Net/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HYq/rUkfpChS2O1tnkR0ocBxHL60jZDORNXd6nO3D6I21MA1M7Idvd0m31X9yLkriNSatAih0Ho3QRDvU/G0cg==",
+      "path": "jsonpath.net/2.1.1",
+      "hashPath": "jsonpath.net.2.1.1.nupkg.sha512"
+    },
+    "Lucene.Net/4.8.0-beta00017": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7LLWS9nNwx01AyE/KXMh+qdAlzDkRANE8407AO/wEmLL1InzVKFwfsRdRmwg4ILOMFui4xZ1Y54eqvzo3Tf9Vw==",
+      "path": "lucene.net/4.8.0-beta00017",
+      "hashPath": "lucene.net.4.8.0-beta00017.nupkg.sha512"
+    },
+    "Lucene.Net.Analysis.Common/4.8.0-beta00017": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rPpmww/HgwEwhvfvZgdWITxFsWRoCEpP3+WQBFgbGxTn4eLDr3U/oFoe8KS+8jUNAl2+5atErDrW5JOcFG+gcQ==",
+      "path": "lucene.net.analysis.common/4.8.0-beta00017",
+      "hashPath": "lucene.net.analysis.common.4.8.0-beta00017.nupkg.sha512"
+    },
+    "Lucene.Net.Queries/4.8.0-beta00017": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RVpZCfa/7pgvytFw64zLqinvZPQt4TojvcFghdAA5vhnpSs5GTbtciPIxFH3wwH3f2dYJywiqYKo1h3JBCXRBA==",
+      "path": "lucene.net.queries/4.8.0-beta00017",
+      "hashPath": "lucene.net.queries.4.8.0-beta00017.nupkg.sha512"
+    },
+    "Lucene.Net.QueryParser/4.8.0-beta00017": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZrF7EL06qB+2S2K4T3PliIa5EiJ5Ii7c/zFRMhsNozymz+HRHMVoI/nMYSdN6WF7X1Ef1DTeajMwvsbGTfl28Q==",
+      "path": "lucene.net.queryparser/4.8.0-beta00017",
+      "hashPath": "lucene.net.queryparser.4.8.0-beta00017.nupkg.sha512"
+    },
+    "Lucene.Net.Sandbox/4.8.0-beta00017": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wRAzQZ4Z1yEuAaTwO+RrZB6l3Lz+vNGAiDshf0IjAr8qeVvQj74iodEcff4Bes88bnhqsWLUZlDUg/ygraxX2Q==",
+      "path": "lucene.net.sandbox/4.8.0-beta00017",
+      "hashPath": "lucene.net.sandbox.4.8.0-beta00017.nupkg.sha512"
+    },
+    "Lucene.Net.Spatial/4.8.0-beta00017": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T6qzlrxF6GN7x0nfy1ak8xnTn/SkeapopdE990Pd8H8nIwwAf+McHONEvGbkheDx14djTsDs4r56IYve7kSRMQ==",
+      "path": "lucene.net.spatial/4.8.0-beta00017",
+      "hashPath": "lucene.net.spatial.4.8.0-beta00017.nupkg.sha512"
+    },
+    "Microsoft.Build.Tasks.Git/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bZKfSIKJRXLTuSzLudMFte/8CempWjVamNUR5eHJizsy+iuOuO/k2gnh7W0dHJmYY0tBf+gUErfluCv5mySAOQ==",
+      "path": "microsoft.build.tasks.git/8.0.0",
+      "hashPath": "microsoft.build.tasks.git.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.CSharp.CodeStyle/4.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XNq3sEcjn5jG73mJjjRCl4IR9+IgxHyVpEYDI/lxWGvYZzpJLkNfigmuUII+Cjvg1gQERO3Oq2CXQBhAqc//OA==",
+      "path": "microsoft.codeanalysis.csharp.codestyle/4.13.0",
+      "hashPath": "microsoft.codeanalysis.csharp.codestyle.4.13.0.nupkg.sha512"
+    },
+    "Microsoft.IO.RecyclableMemoryStream/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s/s20YTVY9r9TPfTrN5g8zPF1YhwxyqO6PxUkrYTGI2B+OGPe9AdajWZrLhFqXIvqIW23fnUE4+ztrUWNU1+9g==",
+      "path": "microsoft.io.recyclablememorystream/3.0.1",
+      "hashPath": "microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512"
+    },
+    "Microsoft.SourceLink.Common/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dk9JPxTCIevS75HyEQ0E4OVAFhB2N+V9ShCXf8Q6FkUQZDkgLI12y679Nym1YqsiSysuQskT7Z+6nUf3yab6Vw==",
+      "path": "microsoft.sourcelink.common/8.0.0",
+      "hashPath": "microsoft.sourcelink.common.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.SourceLink.GitHub/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G5q7OqtwIyGTkeIOAc3u2ZuV/kicQaec5EaRnc0pIeSnh9LUjj+PYQrJYBURvDt7twGl2PKA7nSN0kz1Zw5bnQ==",
+      "path": "microsoft.sourcelink.github/8.0.0",
+      "hashPath": "microsoft.sourcelink.github.8.0.0.nupkg.sha512"
+    },
+    "NetTopologySuite/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UMqlZgOdR9w24BaBh2K70LRK9KMVeuUPQv/70O93Kcta9XPpKSfN8bDCmXMXsQLQfDpRPimLe0asFEp1Mm7h0A==",
+      "path": "nettopologysuite/1.15.0",
+      "hashPath": "nettopologysuite.1.15.0.nupkg.sha512"
+    },
+    "NetTopologySuite.CoordinateSystems/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p9AiFHHPcpSW+JzN+/t4L/45l1h3e9Tnsb/7TzGVkoIABd8CwfbGfg/xPxRmjhiXTUvDr/ERQK77/abthL0UcQ==",
+      "path": "nettopologysuite.coordinatesystems/1.15.0",
+      "hashPath": "nettopologysuite.coordinatesystems.1.15.0.nupkg.sha512"
+    },
+    "NetTopologySuite.Core/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SMhtTQYfpgHq9+0X9cwcLfUZlUWkmzK2OODHLMjX5KbSLP99xvCAF95CfZ4hnsI7K6qvezOQXbIKJpYdr7yKmg==",
+      "path": "nettopologysuite.core/1.15.0",
+      "hashPath": "nettopologysuite.core.1.15.0.nupkg.sha512"
+    },
+    "Spatial4n/0.4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lDFTOtyOJVgYsi9AEBOWVuRyzkj4cZGd3DRiRFgQcOAIceOWGTTHCMPKbqhtwdQ+y9gf7FOe4TnahWPStpT6ZA==",
+      "path": "spatial4n/0.4.1.1",
+      "hashPath": "spatial4n.0.4.1.1.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
+    },
+    "ZString/2.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XE8a+11nZg0LRaf+RGABEWaHIf8yGd5w8v/Ra1iWxMBmAVzwuKbW7G21mS0U7w7sh1lYcgckInWGgnz4qyET8A==",
+      "path": "zstring/2.6.0",
+      "hashPath": "zstring.2.6.0.nupkg.sha512"
+    },
+    "OrchardCore.Abstractions/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.Data.Abstractions/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.Infrastructure.Abstractions/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.Queries.Abstractions/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.ResourceManagement.Abstractions/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.Search.Lucene.Abstractions/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

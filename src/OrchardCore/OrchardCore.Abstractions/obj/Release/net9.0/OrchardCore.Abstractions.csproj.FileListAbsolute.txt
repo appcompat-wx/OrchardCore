@@ -1,0 +1,15 @@
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\bin\Release\net9.0\OrchardCore.Abstractions.deps.json
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\bin\Release\net9.0\OrchardCore.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\bin\Release\net9.0\OrchardCore.Abstractions.pdb
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\bin\Release\net9.0\OrchardCore.Abstractions.xml
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.csproj.AssemblyReference.cache
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.AssemblyInfoInputs.cache
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.AssemblyInfo.cs
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.csproj.CoreCompileInputs.cache
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.sourcelink.json
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\refint\OrchardCore.Abstractions.dll
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.xml
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\OrchardCore.Abstractions.pdb
+D:\OrchardCore\src\OrchardCore\OrchardCore.Abstractions\obj\Release\net9.0\ref\OrchardCore.Abstractions.dll

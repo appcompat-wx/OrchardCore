@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrchardCore.DataProtection.Azure</name>
+    </assembly>
+    <members>
+        <member name="T:OrchardCore.DataProtection.Azure.BlobModularTenantEvents">
+            <summary>
+            A tenant event that deletes data protection blobs from a container when a tenant is deleted.
+            </summary>
+        </member>
+        <member name="M:OrchardCore.DataProtection.Azure.BlobModularTenantEvents.RemovingAsync(OrchardCore.Environment.Shell.Removing.ShellRemovingContext)">
+            <summary>
+            Removes the data protection blob from the container when a tenant is deleted.
+            </summary>
+            <param name="context">The <see cref="T:OrchardCore.Environment.Shell.Removing.ShellRemovingContext"/></param>
+        </member>
+    </members>
+</doc>

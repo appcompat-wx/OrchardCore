@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OrchardCore.UrlRewriting
+build_property.RootNamespace = OrchardCore.UrlRewriting
+build_property.ProjectDir = D:\OrchardCore\src\OrchardCore.Modules\OrchardCore.UrlRewriting\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\OrchardCore\src\OrchardCore.Modules\OrchardCore.UrlRewriting
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/NavigationItemText-urlrewriting.Id.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbkl0ZW1UZXh0LXVybHJld3JpdGluZy5JZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/RewriteRule.Buttons.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV3cml0ZVJ1bGUuQnV0dG9ucy5TdW1tYXJ5QWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/RewriteRule.DefaultMeta.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV3cml0ZVJ1bGUuRGVmYXVsdE1ldGEuU3VtbWFyeUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/RewriteRule.DefaultTags.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV3cml0ZVJ1bGUuRGVmYXVsdFRhZ3MuU3VtbWFyeUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/RewriteRule.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV3cml0ZVJ1bGUuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/RewriteRule.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV3cml0ZVJ1bGUuRmllbGRzLkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/RewriteRule.Fields.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV3cml0ZVJ1bGUuRmllbGRzLlN1bW1hcnlBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/RewriteRule.Link.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV3cml0ZVJ1bGUuTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/RewriteRule.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV3cml0ZVJ1bGUuU3VtbWFyeUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/UrlRedirectRule.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJsUmVkaXJlY3RSdWxlLkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/UrlRewriteRule.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJsUmV3cml0ZVJ1bGUuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OrchardCore/src/OrchardCore.Modules/OrchardCore.UrlRewriting/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrchardCore.UrlRewriting</name>
+    </assembly>
+    <members>
+        <member name="T:OrchardCore.UrlRewriting.Recipes.UrlRewritingStep">
+            <summary>
+            This recipe step creates or updates a set of URL rewrite rule.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrchardCore.Search.AzureAI</name>
+    </assembly>
+    <members>
+        <member name="T:OrchardCore.Search.AzureAI.Migrations.AzureAISearchIndexSettingsMigrations">
+            <summary>
+            In version 3, we introduced Source, Id and the ability to add metadata to index settings.
+            This migration will migrate any index that was created before v3 to use the new structure.
+            This migration will be removed in future releases.
+            </summary>
+        </member>
+    </members>
+</doc>

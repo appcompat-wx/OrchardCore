@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrchardCore.AdminDashboard</name>
+    </assembly>
+    <members>
+        <member name="M:OrchardCore.AdminDashboard.Services.DashboardPartContentTypeDefinitionHandler.ContentTypeBuilding(OrchardCore.ContentTypes.Events.ContentTypeBuildingContext)">
+            <summary>
+            Adds the <see cref="T:OrchardCore.AdminDashboard.Models.DashboardPart"/> to the content type definition when the stereotype is set to 'DashboardWidget'.
+            This occurs during the content type building process, allowing the content type to function as a dashboard widget.
+            </summary>
+        </member>
+        <member name="M:OrchardCore.AdminDashboard.Services.DashboardPartContentTypeDefinitionHandler.ContentTypePartBuilding(OrchardCore.ContentTypes.Events.ContentTypePartBuildingContext)">
+            <summary>
+            Marks the part on the content type as a system type to prevent its removal.
+            This ensures that the part remains integral to the content type and cannot be deleted.
+            </summary>
+        </member>
+        <member name="M:OrchardCore.AdminDashboard.Services.DashboardPartContentTypeDefinitionHandler.ContentPartBuilding(OrchardCore.ContentTypes.Events.ContentPartBuildingContext)">
+            <summary>
+            Creates a definition if the Record is null and the part name is 'DashboardPart'.
+            This ensures that the 'DashboardPart' has a valid definition when it is missing.
+            </summary>
+        </member>
+        <member name="T:OrchardCore.AdminDashboard.Services.IAdminDashboardService">
+            <summary>
+            Provides services to manage the Admin Dashboards.
+            </summary>
+        </member>
+    </members>
+</doc>

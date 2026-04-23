@@ -1,0 +1,13 @@
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\bin\Release\net11.0\OrchardCore.XmlRpc.Abstractions.deps.json
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\bin\Release\net11.0\OrchardCore.XmlRpc.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\bin\Release\net11.0\OrchardCore.XmlRpc.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\bin\Release\net11.0\OrchardCore.XmlRpc.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\OrchardCore.XmlRpc.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\OrchardCore.XmlRpc.Abstractions.AssemblyInfoInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\OrchardCore.XmlRpc.Abstractions.AssemblyInfo.cs
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\OrchardCore.XmlRpc.Abstractions.csproj.CoreCompileInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\OrchardCore.XmlRpc.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\refint\OrchardCore.XmlRpc.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\OrchardCore.XmlRpc.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\OrchardCore.XmlRpc.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.XmlRpc.Abstractions\obj\Release\net11.0\ref\OrchardCore.XmlRpc.Abstractions.dll

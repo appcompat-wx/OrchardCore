@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "OrchardCore.Feeds.Core/3.0.0-preview": {
+        "dependencies": {
+          "OrchardCore.Feeds.Abstractions": "3.0.0-preview"
+        },
+        "runtime": {
+          "OrchardCore.Feeds.Core.dll": {}
+        }
+      },
+      "OrchardCore.DisplayManagement.Abstractions/3.0.0-preview": {
+        "runtime": {
+          "OrchardCore.DisplayManagement.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "OrchardCore.Feeds.Abstractions/3.0.0-preview": {
+        "dependencies": {
+          "OrchardCore.DisplayManagement.Abstractions": "3.0.0-preview"
+        },
+        "runtime": {
+          "OrchardCore.Feeds.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrchardCore.Feeds.Core/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.DisplayManagement.Abstractions/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.Feeds.Abstractions/3.0.0-preview": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

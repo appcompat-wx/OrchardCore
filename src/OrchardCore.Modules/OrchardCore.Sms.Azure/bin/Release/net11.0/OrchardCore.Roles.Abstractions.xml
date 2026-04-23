@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrchardCore.Roles.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:OrchardCore.Security.RoleClaim">
+            <summary>
+            Represents a claim that is granted to all users within a role.
+            </summary>
+        </member>
+        <member name="P:OrchardCore.Security.RoleClaim.ClaimType">
+            <summary>
+            Gets or sets the claim type for this claim.
+            </summary>
+        </member>
+        <member name="P:OrchardCore.Security.RoleClaim.ClaimValue">
+            <summary>
+            Gets or sets the claim value for this claim.
+            </summary>
+        </member>
+    </members>
+</doc>

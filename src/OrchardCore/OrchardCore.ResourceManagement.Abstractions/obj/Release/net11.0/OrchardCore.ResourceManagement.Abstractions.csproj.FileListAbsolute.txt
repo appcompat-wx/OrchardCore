@@ -1,0 +1,13 @@
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\bin\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.deps.json
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\bin\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\bin\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\bin\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.AssemblyInfoInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.AssemblyInfo.cs
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.csproj.CoreCompileInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\refint\OrchardCore.ResourceManagement.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\OrchardCore.ResourceManagement.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.ResourceManagement.Abstractions\obj\Release\net11.0\ref\OrchardCore.ResourceManagement.Abstractions.dll

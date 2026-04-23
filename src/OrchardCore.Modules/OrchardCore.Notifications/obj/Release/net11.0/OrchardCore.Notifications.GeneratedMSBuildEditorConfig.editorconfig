@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net11.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v11.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OrchardCore.Notifications
+build_property.RootNamespace = OrchardCore.Notifications
+build_property.ProjectDir = C:\AppBuild\OrchardCMS\src\OrchardCore.Modules\OrchardCore.Notifications\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 11.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\AppBuild\OrchardCMS\src\OrchardCore.Modules\OrchardCore.Notifications
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Admin/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Items/NotifyContentOwnerTask.Fields.Design.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcTm90aWZ5Q29udGVudE93bmVyVGFzay5GaWVsZHMuRGVzaWduLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Items/NotifyContentOwnerTask.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcTm90aWZ5Q29udGVudE93bmVyVGFzay5GaWVsZHMuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Items/NotifyContentOwnerTask.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcTm90aWZ5Q29udGVudE93bmVyVGFzay5GaWVsZHMuVGh1bWJuYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Items/NotifyUserTask.Fields.Design.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcTm90aWZ5VXNlclRhc2suRmllbGRzLkRlc2lnbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Items/NotifyUserTask.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcTm90aWZ5VXNlclRhc2suRmllbGRzLkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Items/NotifyUserTask.Fields.Thumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcTm90aWZ5VXNlclRhc2suRmllbGRzLlRodW1ibmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Items/NotifyUserTaskActivity.Fields.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcTm90aWZ5VXNlclRhc2tBY3Rpdml0eS5GaWVsZHMuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Notification.Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uLkhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/Notification.SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uLlN1bW1hcnlBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsActions_SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0FjdGlvbnNfU3VtbWFyeUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsAdminList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0FkbWluTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsAdminList.Fields.BulkActions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0FkbWluTGlzdC5GaWVsZHMuQnVsa0FjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsAdminListActionBarButtons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0FkbWluTGlzdEFjdGlvbkJhckJ1dHRvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsAdminListBulkActions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0FkbWluTGlzdEJ1bGtBY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsAdminListFilters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0FkbWluTGlzdEZpbHRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsAdminListSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0FkbWluTGlzdFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsAdminListSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0FkbWluTGlzdFN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsButtonActions_SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc0J1dHRvbkFjdGlvbnNfU3VtbWFyeUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/NotificationsMeta_SummaryAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uc01ldGFfU3VtbWFyeUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/UserNotificationNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck5vdGlmaWNhdGlvbk5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/UserNotificationPreferencesPart.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck5vdGlmaWNhdGlvblByZWZlcmVuY2VzUGFydC5FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppBuild/OrchardCMS/src/OrchardCore.Modules/OrchardCore.Notifications/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

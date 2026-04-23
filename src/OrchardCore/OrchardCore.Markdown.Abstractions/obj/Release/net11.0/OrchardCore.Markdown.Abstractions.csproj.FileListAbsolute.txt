@@ -1,0 +1,13 @@
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\bin\Release\net11.0\OrchardCore.Markdown.Abstractions.deps.json
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\bin\Release\net11.0\OrchardCore.Markdown.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\bin\Release\net11.0\OrchardCore.Markdown.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\bin\Release\net11.0\OrchardCore.Markdown.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\OrchardCore.Markdown.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\OrchardCore.Markdown.Abstractions.AssemblyInfoInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\OrchardCore.Markdown.Abstractions.AssemblyInfo.cs
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\OrchardCore.Markdown.Abstractions.csproj.CoreCompileInputs.cache
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\OrchardCore.Markdown.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\refint\OrchardCore.Markdown.Abstractions.dll
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\OrchardCore.Markdown.Abstractions.xml
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\OrchardCore.Markdown.Abstractions.pdb
+C:\AppBuild\OrchardCMS\src\OrchardCore\OrchardCore.Markdown.Abstractions\obj\Release\net11.0\ref\OrchardCore.Markdown.Abstractions.dll
